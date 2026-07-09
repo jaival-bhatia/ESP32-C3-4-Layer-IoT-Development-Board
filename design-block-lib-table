@@ -1,0 +1,6 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "cp2102") (type "KiCad") (uri "C:/Users/JaivalBhatia/Downloads/CP2102N-A01-GQFN20 (1)") (options "") (descr ""))
+	(lib (name "f") (type "KiCad") (uri "${KIPRJMOD}/files/LM1117MPX-3.3") (options "") (descr ""))
+	(lib (name "LM1117MPX-3.3") (type "KiCad") (uri "${KIPRJMOD}/files") (options "") (descr "") (disabled))
+)
